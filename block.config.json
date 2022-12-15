@@ -1,0 +1,8 @@
+{
+  "name": "send_email",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/vinilunni/send_email",
+    "ssh": "git@github.com:vinilunni/send_email.git"
+  }
+}
